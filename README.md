@@ -1,0 +1,2 @@
+# Performance-based-underground-hydrogen-storage-dataset-and-code
+The dataset includes reservoir-level input and output tables and a Python notebook. The notebook demonstrates the calculation sequence for an anonymised reservoir, including thermophysical property evaluation, pseudo-pressure integration, IPR/OPR construction, plateau-rate estimation, working/cushion gas calculation, and injectivity estimation.
